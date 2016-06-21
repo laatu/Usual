@@ -14,12 +14,13 @@ import static java.nio.file.Files.lines;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.*;
+import static java.nio.file.Files.lines;
 
 /**
  *
  * @author laatuji
  */
-public class FileOp {
+public class Path_File {
 
     public static void main(String[] args) {
 
